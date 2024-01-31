@@ -9,7 +9,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-BROSH CRM - Better, faster, affordable marketing and CRM platform loved by thousands of startups [brosh.io](brosh.io)!
+BROSH CRM - Better, faster, affordable marketing and CRM platform loved by thousands of startups [https://www.brosh.io](brosh.io)!
 
 == **Description** ==
 
