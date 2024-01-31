@@ -1,4 +1,4 @@
-=== **BROSH CRM Plugin - The UNIFIED CRM & MARKETING PLATFORM** ===
+=**BROSH CRM Plugin - The UNIFIED CRM & MARKETING PLATFORM** =
 
 Contributors: brosh.io,  ZAAPIT LTD
 Tags: crm, marketing, automation, lead tracking, sales pipeline management, marketing automation, brosh crm, eliminate duplicates, drip campaigns, bulk emails
@@ -11,7 +11,7 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 BROSH CRM - Better, faster, affordable marketing and CRM platform loved by thousands of startups!
 
-== **Description** ==
+**Description** 
 
 Better, faster and affordable marketing and CRM platform by brosh.io
 
@@ -25,9 +25,9 @@ You will be able to manage your employees via BROSH CRM..
 
 [youtube https://www.youtube.com/watch?v=nKvuUedfQEU]
 
+![BROSH CRM FOR WORDPRESS](/screenshots/brosh_hero_10_2022_multi_device.jpg "BROSH CRM - Hero")
 
-
-== **Amazing Features** ==
+**Amazing Features** 
 
 * Sales Pipeline Management - Manage your sales pipeline, assign tasks to team members, and set reminders to keep things moving forward.
 * Marketing Automation - Send drip campaigns, do A/B testing, Auto lead/contact creation from messages. Send mass and automated emails using templates to your leads and contacts.
@@ -42,8 +42,10 @@ You will be able to manage your employees via BROSH CRM..
 * 📧 Nurture your leads by sending newsletters & automating email marketing campaigns.
 
 [youtube https://www.youtube.com/watch?v=Qd7MGnjLj-c]
+![BROSH CRM FOR WORDPRESS](/screenshots/knaban_hero_2023.jpg "Kanban")
 
-==Marketing automation for social media==
+**Marketing automation for social media**
+
 * LinkedIn Prospector, Social Selling and Automation - Prospect faster with BROSH’s verified contact data, insights, and automation.
 * Launch a  drip campign directly from LinkedIn. Use the extension to get contact's email, phone and other details, use sales navigator to add contacts in bulk into lists (Email and phone Extractor on steroids)
 * Auto Create contacts and email from incoming emails (Gmail / outlook/ other services), apply automation to incoming  / outgoing emails, do auto follow ups, auto updates and more.
@@ -52,15 +54,19 @@ You will be able to manage your employees via BROSH CRM..
 
 [Demo](https://brosh.io/) | [User Guide](https://www.brosh.io/page/Videos) | [Get Support](https://www.brosh.io/page/about-us) | [Youtube Video Tutorials](https://www.youtube.com/watch?v=nKvuUedfQEU&list=UULF0LcuBJyzDtw2_cT_x-dapQ) | [Official Facebook Page](https://www.facebook.com/BROSHCRM)
 
+![BROSH CRM Marketing automation](/screenshots/brosh_marketing_automation.jpg "Marketing automation")
 
 
-== **FREE TO START!**  == 
+**FREE TO START!**   
+
 Unlock value at the get-go with BROSH’s free pricing tier that provides you access to our Chrome Extension, message engagement features and and more!
 
-== WHY BROSH? == 
+
+**WHY BROSH?** 
+ 
 BROSH provides access to the world’s most futuristic platform including zero-day validated data, most accurate, and most in-depth B2B platform, along with tools to automate your entire workflow in one single platform. Use BROSH to find top prospects, contact decision makers, increase pipeline, and grow revenue.
 
-== What our users saying about the Best Contact Form Plugin for WordPress ==
+ What our users saying about the Best Contact Form Plugin for WordPress 
 
 >__Great App. Awesome Support__
 >This app is the ultimate problem solver for us... 
@@ -72,7 +78,7 @@ BROSH provides access to the world’s most futuristic platform including zero-d
 
 
 
-== **Installation** ==
+**Installation**
 
 This section describes how to install the plugin and get it working.
 
@@ -87,7 +93,9 @@ Your WordPress site and BROSH account will be connected and you’re ready to ge
 This plugin uses BROSH CRM / https://brosh.io to provide it's service as a wordpress extnesion.
 The following is our privacy [policy] (https://www.brosh.io/page/privacy) and [EULA] (https://www.brosh.io/page/Terms-and-Conditions)
 
-== **Frequently Asked Questions** ==
+
+
+**Frequently Asked Questions** 
 
 = BROSH is FREE? =
 
@@ -118,7 +126,7 @@ Yes, under the contact list-view click the action button>import. You can import 
 Send us an email to <a href="mainto:support@brosh.io">support at brosh.io</a>.
 
 
-== **Screenshots** ==
+**Screenshots** 
 
 1. BROSH HERO Mutli Device
 2. BROSh Kanban View Hero (+ animation gif)
@@ -129,11 +137,11 @@ Send us an email to <a href="mainto:support@brosh.io">support at brosh.io</a>.
 7. BROSH LinkedIn Side Bar view
 
 
-==** Changelog** ==
+** Changelog** 
 
 = 1.0 =
 * BROSH CRM for wordpress - first release!
 
-== Upgrade Notice ==
+ Upgrade Notice 
 The latest Version is compatible with previous version, So nothing to worry
 
