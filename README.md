@@ -82,9 +82,18 @@ This section describes how to install the plugin and get it working.
 
 e.g.
 
-1. Install the plugin through the WordPress plugins menu-screen directly or Upload the plugin files to the `/wp-content/plugins/broshcrm` directory
-2. Activate the plugin through the \'Plugins\' menu-screen in WordPress
+
+1. Install the plugin through the WordPress plugins menu-screen directly (comming soon)  or Upload the plugin package to your wordpress using the upload button in your wordpress. Copy the [link to the plugin](https://www.brosh.io/wordpress/broshcrm_light.gz) use it after you click the upload button e.g. paste the link when choosing a file and its will install the add-on in the following directory: `/wp-content/plugins/broshcrm` . see the images.
+
+2. Activate the plugin through the "Plugins" menu-screen in WordPress or once the upload is done.
+
 3. Access BORSH CRM via wordpress left menu 
+
+![BROSH CRM Install start](/screenshots/wordpress_install2.jpg "Install start")
+![BROSH CRM Activate after upload](/screenshots/wordpress_install25.jpg "Activate after upload")
+![BROSH CRM setup done](/screenshots/wordpress_install35_pub.jpg "Install done")
+![BROSH CRM preview](/screenshots/wordpress_install36_pub.jpg "brosh wordpress Preview2")
+
 
 
 Your WordPress site and BROSH account will be connected and you’re ready to get started with BROSH CRM – CRM, Email Marketing, Drip Campigns, social lead prospecting.
