@@ -1,4 +1,4 @@
-=**BROSH CRM Plugin - The UNIFIED CRM & MARKETING PLATFORM** =
+**BROSH CRM Plugin - The UNIFIED CRM & MARKETING PLATFORM** 
 
 Contributors: brosh.io,  ZAAPIT LTD
 Tags: crm, marketing, automation, lead tracking, sales pipeline management, marketing automation, brosh crm, eliminate duplicates, drip campaigns, bulk emails
@@ -9,11 +9,9 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-BROSH CRM - Better, faster, affordable marketing and CRM platform loved by thousands of startups!
+BROSH CRM - Better, faster, affordable marketing and CRM platform loved by thousands of startups [brosh.io](brosh.io)!
 
-**Description** 
-
-Better, faster and affordable marketing and CRM platform by brosh.io
+== **Description** ==
 
 **BROSH CRM** is a unified CRM and Marketing platform, BROSH is  enables sales and marketing teams to sell faster than ever before. 
 Especially from the places they use the most e.g. Wordpress, LinkedIn, Gmail, etc. 
