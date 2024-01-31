@@ -9,7 +9,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-BROSH CRM - Better, faster, affordable marketing and CRM platform loved by thousands of startups [https://www.brosh.io](brosh.io)!
+BROSH CRM - Better, faster, affordable marketing and CRM platform loved by thousands of startups [brosh.io](https://www.brosh.io)!
 
 == **Description** ==
 
@@ -28,12 +28,12 @@ You will be able to manage your employees via BROSH CRM..
 **Amazing Features** 
 
 * Sales Pipeline Management - Manage your sales pipeline, assign tasks to team members, and set reminders to keep things moving forward.
-* Marketing Automation - Send drip campaigns, do A/B testing, Auto lead/contact creation from messages. Send mass and automated emails using templates to your leads and contacts.
+* [Marketing Automation](https://www.brosh.io/page/marketing-automation-lead-to-sale) - Send drip campaigns, do A/B testing, Auto lead/contact creation from messages. Send mass and automated emails using templates to your leads and contacts.
 * Gneral Automation - Save time and money by automating repetitive tasks. Get better results by focusing on what matters most.
 * Customer Relationship Management - Keep track of customer conversations, emails ,notes, support tickets, calls, and more
 * Send bulk email / mass emails / automated emails
-* Eliminate Duplicates - Clean wrong / duplicated data like never before, fix / merge your records and apply mass actions with ease
-* Smart Lists, Smart Kanbans, Smart Calendars, Smart Reports, Smart Dashboards
+* [Eliminate Duplicates](https://www.brosh.io/page/Bulk-Merge-brosh) - Clean wrong / duplicated data like never before, fix / merge your records and apply mass actions with ease
+* Smart Lists, [Smart Kanbans](https://www.brosh.io/page/streamlining-workflow-kanban-brosh-crm), [Smart Calendars](https://www.brosh.io/page/smart-scheduling-calendar-anything), Smart Reports, Smart Dashboards
 * Built in bulk actions - mass update, mass delete, import, mass emails, mass megre and more...
 * Advanced data filtering, coloring, grouping, charts, multi-sorting and more!
 * Send quotes and invoices with ease!
