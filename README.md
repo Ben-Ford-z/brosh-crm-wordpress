@@ -1,4 +1,4 @@
-**BROSH CRM Plugin - The UNIFIED CRM & MARKETING PLATFORM** 
+**BROSH CRM FOR WORDPRESS - The UNIFIED CRM & MARKETING PLATFORM** 
 
 Contributors: brosh.io,  ZAAPIT LTD
 Tags: crm, marketing, automation, lead tracking, sales pipeline management, marketing automation, brosh crm, eliminate duplicates, drip campaigns, bulk emails
