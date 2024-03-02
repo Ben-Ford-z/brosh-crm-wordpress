@@ -22,7 +22,7 @@ BROSH CRM is also equipped with spreadsheet-like reports, consoles, smart relate
 The app comes with a powerful data management tool that will allow you to run bulk-updates and to de-duplicate your data (leads/contacts / any object with it's related data).
 You will be able to manage your employees via BROSH CRM..
 
-[youtube https://www.youtube.com/watch?v=nKvuUedfQEU]
+[youtube https://www.youtube.com/watch?v=ln8q-sIHOnw]
 
 ![BROSH CRM FOR WORDPRESS](/screenshots/brosh_hero_10_2022_multi_device.jpg "BROSH CRM - Hero")
 
